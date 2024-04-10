@@ -1,7 +1,7 @@
 # example-data-analysis
 *A 90-minute project for demonstration.*
 
-This repository holds all that should be required to replicate this short analysis, including the main .ipynb notebook, for use in JupyterLab, and also the pipfile and pipfile.lock, which are needed to install dependencies and run JupyterLab, if needed. If you plan to just use the notebook, then these Python packages are used:
+This repository holds all that should be required to replicate this short analysis, including the main .ipynb notebook, for use in JupyterLab, and also the pipfile, for installation of JupyterLab, if needed. If you plan to just use the notebook, then these Python packages are used:
 - numpy
 - pandas
 - scipy
